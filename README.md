@@ -39,4 +39,18 @@ the options description
 --learning_rate   learning rate  
 --alpha           the weight of the loss  
 
+  
+# Citation  
+@article{wu2020multi,
+  title={Multi-context aware user--item embedding for recommendation},
+  author={Wu, Biao and Wen, Wen and Hao, Zhifeng and Cai, Ruichu},
+  journal={Neural Networks},
+  volume={124},
+  pages={86--94},
+  year={2020},
+  publisher={Elsevier}
+}
 
+
+  
+if there are any question about this, please email billng0414@hotmail.com and we are appreciate for the questions

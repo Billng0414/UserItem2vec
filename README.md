@@ -34,11 +34,21 @@ you can also use our sampling algorithm and you need to:
 
 the options description  
   
---user_embedding_size  embedding size  
---negative_size   negative sample  
---probability     the probability to balance different kind of user-user/item-item edge  
---learning_rate   learning rate  
---alpha           the weight of the loss  
+--user_embedding_size  
+                   embedding size  
+                     
+--negative_size   
+                  negative sample    
+                    
+--probability     
+                  the probability to balance different kind of user-user/item-item edge  
+                    
+--learning_rate   
+                  learning rate  
+                    
+--alpha           
+                  the weight of the loss  
+                    
 
   
 # Citation  

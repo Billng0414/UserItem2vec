@@ -18,7 +18,7 @@ to run this code, you need to prepare the sampled data and:
 2. set user-user edge  "u_interaction_file" in line 443 in code/train.py
 3. set item-item edge  "i_interaction_file" in line 451 in code/train.py
 
-the format of train_file is :
+the format of train_file is:  
 user item label step    
 (step is the order of user item interaction, and if you don't care about higher-order interactions, set this to 1)  
 

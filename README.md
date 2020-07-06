@@ -6,10 +6,10 @@ code of UserItem2vec
 
 
 # Requirements
-python2.7
-tensorflow == 0.12
-numpy
-tqdm
+python2.7  
+tensorflow == 0.12  
+numpy  
+tqdm  
 
 
 # Note
